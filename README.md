@@ -1,0 +1,2 @@
+# gertrudismichael-django-blog
+personal notes and experiments
